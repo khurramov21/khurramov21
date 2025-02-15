@@ -1,4 +1,4 @@
-
+https://khurramov_21_571/img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 <!--
 **khurramov21/khurramov21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
